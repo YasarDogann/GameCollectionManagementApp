@@ -1,3 +1,4 @@
 # GameCollectionManagementApp
  
-# Açıklamalar Yakında Gelecek (inş)
+# Açıklamalar Yakında Gelecek inşallah 
+(inşallah = umut etme ve sonuç üşengeçlik Gelmedi)
