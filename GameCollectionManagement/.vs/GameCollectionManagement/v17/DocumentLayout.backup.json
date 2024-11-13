@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\gamecollectionmanagementapp\\gamecollectionmanagement\\gamecollectionmanagement\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|solutionrelative:gamecollectionmanagement\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\gamecollectionmanagementapp\\gamecollectionmanagement\\gamecollectionmanagement\\reviewlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|solutionrelative:gamecollectionmanagement\\reviewlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\gamecollectionmanagementapp\\gamecollectionmanagement\\gamecollectionmanagement\\gamelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|solutionrelative:gamecollectionmanagement\\gamelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\gamecollectionmanagementapp\\gamecollectionmanagement\\gamecollectionmanagement\\reviewlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|solutionrelative:gamecollectionmanagement\\reviewlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\gamecollectionmanagementapp\\gamecollectionmanagement\\gamecollectionmanagement\\editreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|solutionrelative:gamecollectionmanagement\\editreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\gamecollectionmanagementapp\\gamecollectionmanagement\\gamecollectionmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|solutionrelative:gamecollectionmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\gamecollectionmanagementapp\\gamecollectionmanagement\\gamecollectionmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|solutionrelative:gamecollectionmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\gamecollectionmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC5B6997-EE14-44D9-87B7-52D7BC896FE8}|GameCollectionManagement\\GameCollectionManagement.csproj|solutionrelative:gamecollectionmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "GameCollectionManagement\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "GameCollectionManagement\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:14:24.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameList.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\GameList.cs",
+              "RelativeDocumentMoniker": "GameCollectionManagement\\GameList.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\GameList.cs",
+              "RelativeToolTip": "GameCollectionManagement\\GameList.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:12:24.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewList.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\ReviewList.cs",
+              "RelativeDocumentMoniker": "GameCollectionManagement\\ReviewList.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\ReviewList.cs",
+              "RelativeToolTip": "GameCollectionManagement\\ReviewList.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAArwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:11:09.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewList.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\ReviewList.cs",
+              "RelativeDocumentMoniker": "GameCollectionManagement\\ReviewList.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\ReviewList.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GameCollectionManagement\\ReviewList.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:10:27.463Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditReview.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\EditReview.cs",
+              "RelativeDocumentMoniker": "GameCollectionManagement\\EditReview.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\EditReview.cs",
+              "RelativeToolTip": "GameCollectionManagement\\EditReview.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:47:31.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\Program.cs",
+              "RelativeDocumentMoniker": "GameCollectionManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\Program.cs",
+              "RelativeToolTip": "GameCollectionManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:41:30.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "GameCollectionManagement\\MainForm.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\MainForm.cs",
+              "RelativeToolTip": "GameCollectionManagement\\MainForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4vzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:45:40.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "GameCollectionManagement\\MainForm.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GameCollectionManagement\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:49:43.927Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

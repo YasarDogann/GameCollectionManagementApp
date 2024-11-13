@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OmjNGEP1kZQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasar\\source\\repos\\Patika+\\GameCollectionManagementApp\\GameCollectionManagement\\GameCollectionManagement\\GameCollectionManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yasar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yasar\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
