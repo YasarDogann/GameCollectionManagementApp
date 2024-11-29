@@ -17,7 +17,7 @@ Game Collection Management App, aşağıdaki konuları öğrenmek ve uygulamak i
 
 Bu projede kullanılan temel teknolojiler şunlardır:
 
-    C# (.NET 6)
+    C# (.NET 8)
     PostgreSQL
     Npgsql (PostgreSQL için .NET veri sağlayıcısı)
     Entity Framework Core
