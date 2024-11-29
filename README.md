@@ -27,24 +27,24 @@ Bu projede kullanılan temel teknolojiler şunlardır:
 Projede kullanılan veritabanı aşağıdaki tabloları içerir:
 1. Games
 
-    GameId (int) - Oyun benzersiz kimliği
-    Title (string) - Oyun adı
-    Genre (string) - Türü
-    ReleaseDate (DateTime) - Çıkış tarihi
+    `GameId (int)` - Oyun benzersiz kimliği
+    `Title (string)` - Oyun adı
+    `Genre (string)` - Türü
+    `ReleaseDate (DateTime)` - Çıkış tarihi
 
 2. Users
 
-    UserId (int) - Kullanıcı benzersiz kimliği
-    Username (string) - Kullanıcı adı
-    Email (string) - E-posta adresi
+    `UserId (int)` - Kullanıcı benzersiz kimliği
+    `Username (string)` - Kullanıcı adı
+    `Email (string)` - E-posta adresi
 
 3. Reviews
 
-    ReviewId (int) - İnceleme benzersiz kimliği
-    UserId (int) - İnceleme yapan kullanıcı
-    GameId (int) - İnceleme yapılan oyun
-    Rating (int) - İnceleme puanı (1-10 arası)
-    Comment (string) - Yorum
+    `ReviewId (int)` - İnceleme benzersiz kimliği
+    `UserId (int)` - İnceleme yapan kullanıcı
+    `GameId (int)` - İnceleme yapılan oyun
+    `Rating (int)` - İnceleme puanı (1-10 arası)
+    `Comment (string)` - Yorum
 
 🚀 Kurulum ve Çalıştırma
 
@@ -54,7 +54,7 @@ Aşağıdaki adımları takip ederek projeyi kurabilir ve çalıştırabilirsini
 Projeyi GitHub üzerinden indirin:
 Game Collection Management App - GitHub
 
-git clone https://github.com/YasarDogann/GameCollectionManagementApp.git
+`git clone https://github.com/YasarDogann/GameCollectionManagementApp.git`
 
 2. Gerekli Araçlar
 
@@ -66,15 +66,15 @@ git clone https://github.com/YasarDogann/GameCollectionManagementApp.git
 
     PostgreSQL üzerinde bir veritabanı oluşturun.
     appsettings.json dosyasını açarak bağlantı bilgilerinizi güncelleyin:
-
+`
 "ConnectionStrings": {
     "GameCollectionManagement": "Server=localhost;Database=GameCollectionDB;User Id=postgres;Password=yourpassword;"
 }
-
+`
 Veritabanı tablolarını oluşturmak için Entity Framework Core Migrations komutlarını çalıştırın:
 
-    dotnet ef migrations add InitialCreate
-    dotnet ef database update
+   ` dotnet ef migrations add InitialCreate`
+   ` dotnet ef database update`
 
 4. Uygulamayı Çalıştırma
 
