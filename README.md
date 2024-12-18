@@ -1,4 +1,4 @@
-#Game Collection Management App
+# Game Collection Management App
 
 Merhaba,
 Bu proje, oyun koleksiyonunuzu düzenlemek ve yönetmek için geliştirilmiş bir Game Collection Management uygulamasıdır. PostgreSQL veritabanı ile entegre çalışan bu uygulama, oyunlar, kullanıcılar ve incelemeler gibi bilgileri verimli bir şekilde yönetmenize olanak tanır.
